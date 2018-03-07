@@ -1,0 +1,5 @@
+TrajectoryPlannerROS:
+
+  holonomic_robot: false
+  sim_time: 4.0
+
