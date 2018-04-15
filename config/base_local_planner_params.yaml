@@ -1,5 +1,9 @@
+controller_frequency: 7.0
+
 TrajectoryPlannerROS:
 
   holonomic_robot: false
   sim_time: 4.0
+
+
 
